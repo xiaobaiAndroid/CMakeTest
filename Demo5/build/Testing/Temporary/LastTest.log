@@ -1,0 +1,73 @@
+Start testing: Dec 05 15:24 CST
+----------------------------------------------------------
+1/4 Testing: test_run
+1/4 Test: test_run
+Command: "/Users/bzf/Desktop/Cmake/Demo5/build/Demo5" "5" "2"
+Directory: /Users/bzf/Desktop/Cmake/Demo5/build
+"test_run" start time: Dec 05 15:24 CST
+Output:
+----------------------------------------------------------
+用自己的函数库
+5 ^ 2 is 25
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_run" end time: Dec 05 15:24 CST
+"test_run" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: test_usage
+2/4 Test: test_usage
+Command: "/Users/bzf/Desktop/Cmake/Demo5/build/Demo5"
+Directory: /Users/bzf/Desktop/Cmake/Demo5/build
+"test_usage" start time: Dec 05 15:24 CST
+Output:
+----------------------------------------------------------
+请依次输入: 底数 指数 
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[请依次输入: 底数 指数]
+"test_usage" end time: Dec 05 15:24 CST
+"test_usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: test_5_2
+3/4 Test: test_5_2
+Command: "/Users/bzf/Desktop/Cmake/Demo5/build/Demo5" "5" "2"
+Directory: /Users/bzf/Desktop/Cmake/Demo5/build
+"test_5_2" start time: Dec 05 15:24 CST
+Output:
+----------------------------------------------------------
+用自己的函数库
+5 ^ 2 is 25
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[is 25]
+"test_5_2" end time: Dec 05 15:24 CST
+"test_5_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: test_10_5
+4/4 Test: test_10_5
+Command: "/Users/bzf/Desktop/Cmake/Demo5/build/Demo5" "10" "5"
+Directory: /Users/bzf/Desktop/Cmake/Demo5/build
+"test_10_5" start time: Dec 05 15:24 CST
+Output:
+----------------------------------------------------------
+用自己的函数库
+10 ^ 5 is 100000
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[is 100000]
+"test_10_5" end time: Dec 05 15:24 CST
+"test_10_5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 05 15:24 CST

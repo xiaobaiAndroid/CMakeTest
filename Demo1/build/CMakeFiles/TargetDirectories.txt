@@ -1,0 +1,3 @@
+/Users/bzf/Desktop/Cmake/Demo1/build/CMakeFiles/rebuild_cache.dir
+/Users/bzf/Desktop/Cmake/Demo1/build/CMakeFiles/edit_cache.dir
+/Users/bzf/Desktop/Cmake/Demo1/build/CMakeFiles/Demo.dir
